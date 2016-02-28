@@ -1,7 +1,3 @@
-### Installation
-
-`npm install https://github.com/btoll/diceware.git -g`
-
 ### Example
 
     // The delay defaults to 100ms.
